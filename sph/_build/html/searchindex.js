@@ -1,0 +1,1 @@
+Search.setIndex({envversion:50,filenames:["docs/conf","docs/modules","index"],objects:{},objnames:{},objtypes:{},terms:{content:2,index:2,page:2,search:2},titles:["conf module","sph","Welcome to Game&#8217;s documentation!"],titleterms:{conf:0,document:2,game:2,indice:2,modul:0,sph:1,tabl:2,welcom:2}})
